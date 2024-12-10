@@ -12,6 +12,5 @@ java:8u111-jdk-alpine
 java:openjdk-8u111-jdk-alpine
 openjdk:11
 apache/rocketmq
-tomcat:9.0.97-jre8
 sentinel
 seata
